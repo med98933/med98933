@@ -28,4 +28,4 @@ ________________________________________________________________________________
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momo98-sys&theme=dark&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=momo98-sys&theme=dark)](https://git.io/streak-stats)# med98
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=momo98-sys&theme=dark)](https://git.io/streak-stats)
