@@ -31,6 +31,4 @@ ________________________________________________________________________________
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=med98933&theme=dark&show_icons=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=med98933&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=med98933&theme=dark&show_icons=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=med98933&theme=dark)](https://git.io/streak-stats)
