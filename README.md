@@ -2,11 +2,8 @@
 
 _______________________________________________________________
 
-## Full Stack Developer, !
-
-<br> 
-
-- passionate about computers and Always scalable.
+* I am a Full-stack Software Engineer specialized in Full Stack development. 
+* I prefer to work with JavaScript, ReactJS, NodeJS , MongoDB. 
 
 ___________________________________________________________________________________________________________________
 
